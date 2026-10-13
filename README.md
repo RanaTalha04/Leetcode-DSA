@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanaTalha04/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/RanaTalha04/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/RanaTalha04/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RanaTalha04/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/RanaTalha04/Leetcode-DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/RanaTalha04/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
